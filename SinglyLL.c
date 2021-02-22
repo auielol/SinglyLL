@@ -146,7 +146,7 @@ void deleteAt(LIST *L, int p)
 }
 /*
 ================================================================================
-FUNCTION    : getDisplay
+FUNCTION    : displayAll
 DESCRIPTION : Displays Singly Linked List
 ARGUMENTS   : NODE *h
 RETURNS     : void 
